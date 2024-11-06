@@ -2,7 +2,8 @@
 
 Добро пожаловать в наш проект! Ниже представлено изображение, которое иллюстрирует наш день:
 
-[![Day](./day.png)](./day.png)
+[![Day](./docs/day.png)](./docs/day.png)
+https://raw.githubusercontent.com/OkinawaNet/process_diagram/refs/heads/main/docs/day.png
 
 ## Описание
 
